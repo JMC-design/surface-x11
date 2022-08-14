@@ -7,3 +7,5 @@ X11 implementation of surface
 premultiply your alpha if you want proper transparency. 
 
 It is the callers responsibility to ensure that the surface is proper depth for the array.
+
+This is horribly out of date, do not use till updated.
